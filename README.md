@@ -74,3 +74,26 @@ First In, First Out (FIFO) means the order inserted first will be served first.
 ## 10. Conclusion
 
 The College Cafeteria Order Management System demonstrates the practical implementation of a Circular Queue using C. It helps manage food orders based on the FIFO principle and allows efficient reuse of array positions.
+
+
+## Screenshots
+
+### 1. Placing Orders
+![Place Order](place_order.png)
+
+### 2. Displaying Pending Orders
+![Display Orders](Display_order.jpg)
+
+### 3. Serving an Order
+![Serve Order](serve_order.jpg)
+
+### 4. Circular Queue Demonstration
+
+![Circular Queue Step 1](Circular%20Queue1.jpg)
+
+![Circular Queue Step 2](Circular%20Queue2.jpg)
+
+![Circular Queue Step 3](Circular%20Queue3.jpg)
+
+![Serving Orders](Circular%20Queue%20serve.jpg)
+
