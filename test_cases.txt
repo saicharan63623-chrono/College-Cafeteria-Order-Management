@@ -1,0 +1,39 @@
+
+COLLEGE CAFETERIA ORDER MANAGEMENT SYSTEM
+TEST CASES
+
+Test Case 1: Place Order
+Input: Enter order number, student name and food item.
+Expected Result: Order placed successfully.
+
+Test Case 2: Serve Order
+Input: Select option 2.
+Expected Result: The first order is served.
+
+Test Case 3: Display Pending Orders
+Input: Select option 3.
+Expected Result: All pending orders are displayed.
+
+Test Case 4: Peek Operation
+Input: Select option 4.
+Expected Result: The next order is displayed without removing it.
+
+Test Case 5: Empty Queue
+Input: Select option 2 when no orders are present.
+Expected Result: No pending orders message is displayed.
+
+Test Case 6: Full Queue
+Input: Insert 5 orders into the queue.
+Expected Result: All 5 orders are accepted.
+
+Test Case 7: Queue Overflow
+Input: Insert one more order when the queue is full.
+Expected Result: Queue is Full message is displayed.
+
+Test Case 8: Circular Queue Reuse
+Input: Insert 5 orders, serve 3 orders, then insert 2 new orders.
+Expected Result: New orders are inserted into the freed positions.
+
+Test Case 9: FIFO Verification
+Input: Insert multiple orders and serve them one by one.
+Expected Result: Orders are served in the order they were placed.
