@@ -96,5 +96,5 @@ The College Cafeteria Order Management System demonstrates the practical impleme
 
 ![Serving Orders](screenshots/Circular%20Queue%20serve.jpg)
 
-![Serving Orders](Circular%20Queue%20serve.jpg)
+
 
